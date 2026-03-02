@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ved</h1>
+<h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">🚀 Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
 ---
