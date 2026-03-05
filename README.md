@@ -50,11 +50,11 @@
 
 ### 🔹 Project 1
 Short description of what it does.  
-🔗 https://github.com/yourusername/project-link
+🔗[ https://github.com/yourusername/project-link](https://github.com/Staycool18/RentCart)
 
 ### 🔹 Project 2
 Short description of what it does.  
-🔗 https://github.com/yourusername/project-link
+🔗 [https://github.com/yourusername/project-link](https://github.com/Staycool18/PharmaSetu)
 
 ---
 
