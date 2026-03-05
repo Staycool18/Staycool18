@@ -50,11 +50,11 @@
 
 ### 🔹 Project 1
 Short description of what it does.  
-🔗[ https://github.com/yourusername/project-link](https://github.com/Staycool18/RentCart)
+🔗https://github.com/Staycool18/RentCart
 
 ### 🔹 Project 2
 Short description of what it does.  
-🔗 [https://github.com/yourusername/project-link](https://github.com/Staycool18/PharmaSetu)
+🔗https://github.com/Staycool18/PharmaSetu
 
 ---
 
@@ -76,7 +76,7 @@ Short description of what it does.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 💼 LinkedIn: https://www.linkedin.com/in/vedant-salvi-me/
 - 🐦 Twitter: https://twitter.com/yourprofile
 - 🌐 Portfolio: https://yourwebsite.com
 
