@@ -77,8 +77,7 @@ Short description of what it does.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vedant-salvi-me/
-- 🐦 Twitter: https://twitter.com/yourprofile
-- 🌐 Portfolio: https://yourwebsite.com
+- 🌐 email: vedantsalvi3991@gmail.com
 
 ---
 
