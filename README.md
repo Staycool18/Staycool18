@@ -92,18 +92,9 @@
 
 **Tech Stack:** Java | Spring Boot | React | MongoDB | JWT | Razorpay
 
-### 💊 PharmaSetu
-**Online Pharmacy & Healthcare Platform**
+**Tech Stack:** Java | Spring Boot | React | MySQL | AWS | Razorpay | Twillo Voice AI | Gemini API
 
-- Built a full-stack pharmacy application using Spring Boot and React.
-- Integrated MySQL for database management.
-- Implemented Razorpay payment integration.
-- Integrated OpenFDA APIs for medicine-related information.
-- Utilized AWS services for cloud deployment and infrastructure.
-
-**Tech Stack:** Java | Spring Boot | React | MySQL | AWS | Razorpay
-
-### 📊 Tracklytics
+### 📊 Tracklytics(https://github.com/Staycool18/Tracklytics)
 **Real-Time Project Monitoring & Productivity Analytics**
 
 - Developed a platform for real-time project monitoring and productivity analytics.
@@ -114,7 +105,36 @@
 
 **Tech Stack:** Java | Spring Boot | React | MongoDB | WebSockets
 
-### 🤖 Student Performance Prediction
+### 💰 [SpendSmart](https://github.com/Staycool18/SpendSmart-Finance-Management-App)
+**Personal Finance & Expense Tracking Application**
+
+- Developed an application to help users track, manage, and analyze their personal expenses.
+- Implemented expense categorization and transaction management.
+- Designed REST APIs for handling financial records and expense data.
+- Built an intuitive interface to monitor spending patterns and improve financial management.
+
+**Tech Stack:** Java | Spring Boot | React | MongoDB | REST APIs
+
+### 🎥 Crowd Detection & Monitoring System(https://github.com/Staycool18/Crowd-Detection-And-Tracking)
+**AI-Powered Crowd Detection Using Computer Vision**
+
+- Developed an AI-powered crowd detection system using computer vision and deep learning.
+- Implemented real-time person detection and crowd monitoring using YOLO.
+- Analyzed video streams to identify crowd density and monitor occupancy levels.
+- Designed the system to support crowd surveillance and improve public-space safety.
+
+**Tech Stack:** Python | YOLO | OpenCV | Computer Vision | Deep Learning
+
+### 💊 PharmaSetu(https://github.com/Staycool18/PharmaSetu)
+**Online Pharmacy & Healthcare Platform**
+
+- Built a full-stack pharmacy application using Spring Boot and React.
+- Integrated MySQL for database management.
+- Implemented Razorpay payment integration.
+- Integrated OpenFDA APIs for medicine-related information.
+- Utilized AWS services for cloud deployment and infrastructure.
+
+### 🤖 Student Performance Prediction(https://github.com/Staycool18/Student-Performance-Prediction-ML-Streamlit)
 **Machine Learning Project**
 
 - Developed a machine learning model to predict student academic performance.
