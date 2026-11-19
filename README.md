@@ -1,86 +1,165 @@
-<h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">🚀 Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
----
+<h1 align="center">Hey, I'm Vedant👋</h1>
 
-## 🧑‍💻 About Me
-
-- 🔭 Currently working on: **Your Project Name**
-- 🌱 Currently learning: **Your Tech**
-- 💬 Ask me about: **Your Skills**
-- 🎯 Goal: **Your Big Goal**
-- ⚡ Fun fact: **Something cool about you**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Project 1
-Short description of what it does.  
-🔗https://github.com/Staycool18/RentCart
-
-### 🔹 Project 2
-Short description of what it does.  
-🔗https://github.com/Staycool18/PharmaSetu
-
----
-
-## 📊 GitHub Stats
-
-![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- 🥇 Achievement 1  
-- 📜 Certification  
-- ⭐ Open Source Contributor  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/vedant-salvi-me/
-- 🌐 email: vedantsalvi3991@gmail.com
-
----
+<h3 align="center">
+  Software Developer | Backend Engineer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/yourusername">Ved</a>
+  <a href="https://www.linkedin.com/in/vedant-salvi-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vedantsalvi3991@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Staycool18">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year **B.Tech Computer Engineering** student at MIT Academy of Engineering, Pune.
+- 💻 Passionate about building scalable backend systems and full-stack applications.
+- 🚀 Experienced in Java, Spring Boot, REST APIs, Microservices, and React.
+- 🤖 Exploring AI/ML, Generative AI, and Computer Vision.
+- 🔍 Interested in Data Structures & Algorithms, system design, and problem-solving.
+- 🌱 Currently improving my skills in backend engineering, cloud technologies, and scalable application development.
+- 🎯 Aspiring Software Engineer who loves turning ideas into real-world products.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+</p>
+
+- Spring Boot
+- Microservices Architecture
+- RESTful APIs
+- JWT Authentication & RBAC
+- WebSockets
+- API Integration
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+- AWS (EC2, S3, IAM, VPC, RDS, DynamoDB, CloudFormation)
+- Git & GitHub
+- Postman
+- CI/CD Fundamentals
+
+### 🤖 AI / ML
+- Machine Learning
+- Generative AI
+- Computer Vision
+- YOLO
+- Predictive Analytics
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [RentCart](https://github.com/Staycool18/RentCart)
+**Microservices-Based Rental Platform**
+
+- Developed a rental platform using Java, Spring Boot, React, and MongoDB.
+- Designed independent microservices for Authentication, Items, Orders, Reviews, and Support.
+- Implemented JWT-based authentication and authorization.
+- Integrated Razorpay payment gateway.
+- Built REST APIs with validation and exception handling.
+
+**Tech Stack:** Java | Spring Boot | React | MongoDB | JWT | Razorpay
+
+### 💊 PharmaSetu
+**Online Pharmacy & Healthcare Platform**
+
+- Built a full-stack pharmacy application using Spring Boot and React.
+- Integrated MySQL for database management.
+- Implemented Razorpay payment integration.
+- Integrated OpenFDA APIs for medicine-related information.
+- Utilized AWS services for cloud deployment and infrastructure.
+
+**Tech Stack:** Java | Spring Boot | React | MySQL | AWS | Razorpay
+
+### 📊 Tracklytics
+**Real-Time Project Monitoring & Productivity Analytics**
+
+- Developed a platform for real-time project monitoring and productivity analytics.
+- Built 20+ REST APIs using Spring Boot.
+- Implemented JWT authentication and Role-Based Access Control.
+- Integrated WebSockets for real-time communication.
+- Used MongoDB for data management.
+
+**Tech Stack:** Java | Spring Boot | React | MongoDB | WebSockets
+
+### 🤖 Student Performance Prediction
+**Machine Learning Project**
+
+- Developed a machine learning model to predict student academic performance.
+- Applied data preprocessing and predictive analytics techniques.
+
+**Tech Stack:** Python | Machine Learning
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Staycool18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staycool18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Staycool18&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+- Practicing Data Structures and Algorithms.
+- Strengthening problem-solving skills using Java.
+- Exploring efficient algorithms and optimized solutions.
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-salvi-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Salvi-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:vedantsalvi3991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vedantsalvi3991%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Always curious. Always building. Always learning.
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
 </p>
