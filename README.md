@@ -90,11 +90,9 @@
 - Integrated Razorpay payment gateway.
 - Built REST APIs with validation and exception handling.
 
-**Tech Stack:** Java | Spring Boot | React | MongoDB | JWT | Razorpay
-
 **Tech Stack:** Java | Spring Boot | React | MySQL | AWS | Razorpay | Twillo Voice AI | Gemini API
 
-### 📊 Tracklytics(https://github.com/Staycool18/Tracklytics)
+### 📊 [Tracklytics](https://github.com/Staycool18/Tracklytics)
 **Real-Time Project Monitoring & Productivity Analytics**
 
 - Developed a platform for real-time project monitoring and productivity analytics.
@@ -115,7 +113,7 @@
 
 **Tech Stack:** Java | Spring Boot | React | MongoDB | REST APIs
 
-### 🎥 Crowd Detection & Monitoring System(https://github.com/Staycool18/Crowd-Detection-And-Tracking)
+### 🎥 [Crowd Detection & Monitoring System](https://github.com/Staycool18/Crowd-Detection-And-Tracking)
 **AI-Powered Crowd Detection Using Computer Vision**
 
 - Developed an AI-powered crowd detection system using computer vision and deep learning.
@@ -125,7 +123,7 @@
 
 **Tech Stack:** Python | YOLO | OpenCV | Computer Vision | Deep Learning
 
-### 💊 PharmaSetu(https://github.com/Staycool18/PharmaSetu)
+### 💊 [PharmaSetu](https://github.com/Staycool18/PharmaSetu)
 **Online Pharmacy & Healthcare Platform**
 
 - Built a full-stack pharmacy application using Spring Boot and React.
@@ -134,7 +132,7 @@
 - Integrated OpenFDA APIs for medicine-related information.
 - Utilized AWS services for cloud deployment and infrastructure.
 
-### 🤖 Student Performance Prediction(https://github.com/Staycool18/Student-Performance-Prediction-ML-Streamlit)
+### 🤖 [Student Performance Prediction](https://github.com/Staycool18/Student-Performance-Prediction-ML-Streamlit)
 **Machine Learning Project**
 
 - Developed a machine learning model to predict student academic performance.
